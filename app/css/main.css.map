@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,IAAI,CAAC;EACH,MAAM,EAAE,MAAO,GAChB;;AAED,UAAU,CAAC;EACT,UAAU,EAAE,MAAO,GACpB","file":"main.css","sourcesContent":["html {\n  margin: 0 auto;\n}\n\n.likeCount {\n  text-align: center;\n}\n"],"sourceRoot":"/source/"}
